@@ -10,3 +10,4 @@
 * Mensajes de commit: Título corto en la primera línea, línea en blanco y cuerpo explicativo a continuación.
 * `git commit -am "mensaje"`: Añade modificaciones de archivos ya seguidos y hace commit en un solo paso.
 * `git add .`: Prepara todos los archivos modificados y nuevos del directorio actual.
+* `.gitignore`: Archivo para definir patrones de nombres de archivos que Git debe ignorar.
