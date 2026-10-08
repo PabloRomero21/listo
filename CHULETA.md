@@ -9,3 +9,4 @@
 * `git diff --staged`: Muestra cambios en el stage respecto al último commit.
 * Mensajes de commit: Título corto en la primera línea, línea en blanco y cuerpo explicativo a continuación.
 * `git commit -am "mensaje"`: Añade modificaciones de archivos ya seguidos y hace commit en un solo paso.
+* `git add .`: Prepara todos los archivos modificados y nuevos del directorio actual.
