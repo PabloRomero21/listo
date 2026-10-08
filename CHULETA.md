@@ -14,3 +14,4 @@
 * `git restore <archivo>`: Descarta los cambios locales en el directorio de trabajo.
 * `git restore --staged <archivo>`: Saca un archivo del área de preparación (stage) sin perder los cambios.
 * `git commit --amend`: Modifica o corrige el último commit realizado (antes de haberlo subido con push).
+* Alias de Git: Atajos personalizados definidos mediante `git config --global alias.<nombre> "<comando>"`.
