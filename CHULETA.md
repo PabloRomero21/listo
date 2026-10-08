@@ -5,3 +5,5 @@
 * `git add <archivo>`: Añade cambios al área de preparación (stage).
 * `git commit -m "mensaje"`: Guarda un commit con su mensaje.
 * `git push`: Sube los commits locales a GitHub.
+* `git diff`: Muestra cambios en el directorio de trabajo respecto al stage.
+* `git diff --staged`: Muestra cambios en el stage respecto al último commit.
