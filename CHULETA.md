@@ -11,3 +11,5 @@
 * `git commit -am "mensaje"`: Añade modificaciones de archivos ya seguidos y hace commit en un solo paso.
 * `git add .`: Prepara todos los archivos modificados y nuevos del directorio actual.
 * `.gitignore`: Archivo para definir patrones de nombres de archivos que Git debe ignorar.
+* `git restore <archivo>`: Descarta los cambios locales en el directorio de trabajo.
+* `git restore --staged <archivo>`: Saca un archivo del área de preparación (stage) sin perder los cambios.
